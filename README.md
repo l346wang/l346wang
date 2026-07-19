@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @l346wang
 - 👀 I’m interested in Financial Modelling
-- 🌱 I’m currently learning it
 - 💞️ I’m looking to collaborate on it
 - 📫 How to reach me: l346wang@gmail.com
 
