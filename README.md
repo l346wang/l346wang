@@ -2,7 +2,7 @@
 - 👀 I’m interested in Financial Modelling
 - 🌱 I’m currently learning it
 - 💞️ I’m looking to collaborate on it
-- 📫 How to reach me: l346wang@uwaterloo.ca
+- 📫 How to reach me: l346wang@gmail.com
 
 <!---
 l346wang/l346wang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
